@@ -1,3 +1,3 @@
 # Atelier
-Projet 1
+Debut du Projet git 
 Objectifs du projet: 
